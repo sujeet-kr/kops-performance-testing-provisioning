@@ -1,6 +1,6 @@
 ============Create nodes on AWS============
 
-		* S3 state store should be available before
+        * S3 state store should be available before
         * cd to the project root
         * run -  kops-create-cluster.sh
 
