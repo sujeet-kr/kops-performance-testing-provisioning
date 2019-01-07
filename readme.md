@@ -8,6 +8,8 @@
 
 	* cd to the project root
         * run - kops-delete-cluster.sh
+        * Delete with backup for influxdb
+        * run - ./kops-delete-cluster.sh backup
 
 
 ============Delete the EBS volume ===========
